@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: SettlementFinances.MainMenu
-// Assembly: SettlementFinances, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: F32235B7-729B-4F1B-B741-D870E5EF414A
-// Assembly location: C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\SettlementFinances\bin\Win64_Shipping_Client\SettlementFinances.dll
-
-using MCM.Abstractions.Base.Global;
+﻿using MCM.Abstractions.Base.Global;
 using SettlementFinances.Menus;
 using System;
 using TaleWorlds.CampaignSystem;
